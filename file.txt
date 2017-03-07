@@ -1,1 +1,1 @@
-random
+Hello.random
